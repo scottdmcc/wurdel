@@ -1,0 +1,14 @@
+break
+brown
+clear
+frown
+graph
+grave
+jumps
+learn
+quick
+snake
+toxic
+words
+yahoo
+zebra
